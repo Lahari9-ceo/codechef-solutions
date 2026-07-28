@@ -1,0 +1,32 @@
+Arithmetic Operations
+Write a menu driven program to perform simple arithmetic operations based on the user's choice. The user will indicate the operation to be performed using the signs e.g. + for addition etc.
+
+Input Format
+In first line take the operator as input.
+In second line take two integer numbers as input.
+
+You should take input for operators among these (+, -, *, /, %).
+
+Sample 1:
+Input +
+1 2
+Output 
+3
+Sample 2:
+Input
+-
+9 4
+Output
+5
+Sample 3:
+Input
+^
+10 2
+Output
+Invalid operator! Please use one of the following: +, -, *, /, %
+Sample 4:
+Input
+/
+10 0
+Output
+Error: Division by zero is not allowed.
